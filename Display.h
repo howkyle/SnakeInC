@@ -1,3 +1,6 @@
+/*Programmer: Kyle Howard
+*/
+
 #include<Windows.h>
 #include "SnakeProperties.h"
 
