@@ -1,3 +1,5 @@
+/* Programmer Kyle Howard*/
+
 #include<conio.h>
 #include "Display.h"
 #include<time.h>

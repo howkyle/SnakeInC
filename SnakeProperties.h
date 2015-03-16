@@ -1,3 +1,5 @@
+/*Programmer Kyle Howard*/
+
 #define MAX 1000
 
 typedef struct
